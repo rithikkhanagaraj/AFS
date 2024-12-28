@@ -1,0 +1,10 @@
+a=10;
+console.log(a);
+var b = "AIML , IT, CSE";
+console.log(b);
+const c = "https://kongu.ac.in ";
+console.log(c);
+let d= 15;
+console.log(d);
+e=15;
+console.log(e);
