@@ -1,0 +1,35 @@
+.boxModel{
+    color: brown;
+    margin: 25px;
+    padding:30px;
+    border: 10px double red;
+    text-align: center;
+    text-decoration: none;
+    
+}
+ul{
+    display: flex;
+    background-color:cornflowerblue;
+    justify-content: space-evenly;
+    padding: 20px;
+    cursor:pointer;
+    list-style-type: none;
+    font-size: 20px;
+    text-decoration:none;
+}
+li{
+    cursor:pointer;
+}
+li:hover{
+    background-color: antiquewhite;
+    color:cornflowerblue;
+    border-radius: 15px;
+    padding: 10px;
+    text-decoration: none;
+}
+nav a:hover {
+    text-decoration:none;  
+  }
+  nav a {
+    text-decoration: none;
+  }
