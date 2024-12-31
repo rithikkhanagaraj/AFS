@@ -8,6 +8,9 @@ import Contact from './Components/FunctionalComponents/Contact'
 import NavBar from './Components/FunctionalComponents/NavBar';
 import { BrowserRouter,Routes,Route } from 'react-router-dom';
 import Footer from './Components/FunctionalComponents/Footer';
+import UseEffect from './Components/FunctionalComponents/UseEffect';
+import UseRef from './Components/FunctionalComponents/UseRef';
+import UseContext from './Components/FunctionalComponents/UseContext';
 
 function  App()
 {
@@ -20,6 +23,10 @@ function  App()
         <Route path="/About" element={<About college="Kongu Engineering" clg1="Kongunadu" clg2=" Naturopathy"/> } />
         <Route path="/Contact" element={<Contact/>} />
         <Route path="/Gallery" element={<Gallery/>} />
+        <Route path="/UseEffect" element={<UseEffect/>} />
+        <Route path="/UseRef" element={<UseRef/>} />
+        <Route path="/UseContext" element={<UseContext/>} />
+
       </Routes>
       </BrowserRouter>
    
