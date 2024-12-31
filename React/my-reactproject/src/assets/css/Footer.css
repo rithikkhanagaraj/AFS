@@ -1,0 +1,14 @@
+.Footer{
+    display: flex;
+    background-color:cornflowerblue;
+    justify-content: space-evenly;
+    padding: 20px;
+    cursor:pointer;
+    list-style-type: none;
+    font-size: 20px;
+    margin-top: 350px;
+}
+button{
+    text-align: center;
+}
+

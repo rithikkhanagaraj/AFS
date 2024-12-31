@@ -1,0 +1,28 @@
+------------------------------------->>>GITHUB<<<----------------------------------------------
+1)CREATE A GITHUB ACCOUNT 
+2)CREATE A REPOSITORY 
+3)CREATE A LOCAL FOLDER(AFS TRANING)
+..................
+--------------------------------------->>>TOOLS<<<----------------------------------------------
+babeljs.io -> tool to verify your jsx code 
+..................
+--------------------------------------->>> React<<<---------------------------------------------
+typical way to create a create a react 
+
+npm i create-react-app (i)=>install
+create-react-app <app-name>
+.................
+npm create vite@latest
+.................
+here main.jsx is index.jsx
+.................
+react is a light weight library ..we can create a n number of files
+....in angular everything weill be defaultly present ...........................................
+--------------------------------->>>FUNCTION COMPONENT<<<---------------------------------------
+home=()=>{
+return(<h1>Hello</h1><h2>Kec</h2>)
+}
+
+(class inside methods will be there ,method another name member function)
+----------------------------->>>INTERVIEW QUESTION<<<-------------------------------------------
+Display me 200 words in 2 second (lorem holds 150 words)

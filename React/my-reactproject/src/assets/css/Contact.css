@@ -1,0 +1,29 @@
+/* Basic Styles for the Contact Component */
+div {
+    font-family: sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+form {
+    margin-top: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="submit"] {
+    margin-bottom: 10px;
+}
+input[type="submit"]{
+    background-color:cornflowerblue;
+    
+}
